@@ -20,7 +20,7 @@ El conversor permite realizar conversiones entre diferentes monedas utilizando l
 
 ## 🛠 Tecnologías utilizadas
 
-- Java (versión 8 o superior)
+- Java 
 - API REST: [ExchangeRate API](https://www.exchangerate-api.com/)
 - IDE: IntelliJ IDEA 
 - JSON 
